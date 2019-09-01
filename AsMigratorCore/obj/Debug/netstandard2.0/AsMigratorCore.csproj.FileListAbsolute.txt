@@ -1,0 +1,9 @@
+D:\Code\LatestSubModule\Helpers\ASMigrator\AsMigratorCore\bin\Debug\netstandard2.0\AsMigratorCore.deps.json
+D:\Code\LatestSubModule\Helpers\ASMigrator\AsMigratorCore\bin\Debug\netstandard2.0\AsMigratorCore.dll
+D:\Code\LatestSubModule\Helpers\ASMigrator\AsMigratorCore\obj\Debug\netstandard2.0\AsMigratorCore.csproj.CoreCompileInputs.cache
+D:\Code\LatestSubModule\Helpers\ASMigrator\AsMigratorCore\obj\Debug\netstandard2.0\AsMigratorCore.AssemblyInfoInputs.cache
+D:\Code\LatestSubModule\Helpers\ASMigrator\AsMigratorCore\obj\Debug\netstandard2.0\AsMigratorCore.AssemblyInfo.cs
+D:\Code\LatestSubModule\Helpers\ASMigrator\AsMigratorCore\bin\Debug\netstandard2.0\AsMigratorCore.pdb
+D:\Code\LatestSubModule\Helpers\ASMigrator\AsMigratorCore\obj\Debug\netstandard2.0\AsMigratorCore.dll
+D:\Code\LatestSubModule\Helpers\ASMigrator\AsMigratorCore\obj\Debug\netstandard2.0\AsMigratorCore.pdb
+D:\Code\LatestSubModule\Helpers\ASMigrator\AsMigratorCore\obj\Debug\netstandard2.0\AsMigratorCore.csprojAssemblyReference.cache

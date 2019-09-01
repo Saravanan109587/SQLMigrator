@@ -1,0 +1,8 @@
+D:\Code\LatestSubModule\Helpers\ASMigrator\AsMigratorCore\bin\Debug\netstandard2.0\SQLMigratorCore.deps.json
+D:\Code\LatestSubModule\Helpers\ASMigrator\AsMigratorCore\bin\Debug\netstandard2.0\SQLMigratorCore.dll
+D:\Code\LatestSubModule\Helpers\ASMigrator\AsMigratorCore\bin\Debug\netstandard2.0\SQLMigratorCore.pdb
+D:\Code\LatestSubModule\Helpers\ASMigrator\AsMigratorCore\obj\Debug\netstandard2.0\SQLMigratorCore.csproj.CoreCompileInputs.cache
+D:\Code\LatestSubModule\Helpers\ASMigrator\AsMigratorCore\obj\Debug\netstandard2.0\SQLMigratorCore.AssemblyInfoInputs.cache
+D:\Code\LatestSubModule\Helpers\ASMigrator\AsMigratorCore\obj\Debug\netstandard2.0\SQLMigratorCore.AssemblyInfo.cs
+D:\Code\LatestSubModule\Helpers\ASMigrator\AsMigratorCore\obj\Debug\netstandard2.0\SQLMigratorCore.dll
+D:\Code\LatestSubModule\Helpers\ASMigrator\AsMigratorCore\obj\Debug\netstandard2.0\SQLMigratorCore.pdb

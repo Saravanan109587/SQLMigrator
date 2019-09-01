@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AsMigratorCore</id>
+    <version>1.0.0</version>
+    <authors>Saravanan Natarajan</authors>
+    <owners>Saravanan Natarajan</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/</licenseUrl>
+    <projectUrl>https://github.com/</projectUrl>
+    <iconUrl>https://github.com/</iconUrl>
+    <description>Migration Project for SQL Server</description>
+    <tags>c#,SQL server</tags>
+    <repository type="https://github.com" url="https://github.com" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="FluentMigrator" version="2.0.5" exclude="Build,Analyzers" />
+        <dependency id="FluentMigrator.Runner" version="2.0.5" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Code\LatestSubModule\Helpers\ASMigrator\AsMigratorCore\bin\Debug\netstandard2.0\AsMigratorCore.dll" target="lib\netstandard2.0\AsMigratorCore.dll" />
+  </files>
+</package>
