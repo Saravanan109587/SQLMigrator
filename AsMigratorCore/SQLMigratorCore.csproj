@@ -13,6 +13,7 @@
     <RepositoryUrl>https://github.com</RepositoryUrl>
     <RepositoryType>https://github.com</RepositoryType>
     <PackageTags>c#,SQL server</PackageTags>
+    <SignAssembly>false</SignAssembly>
   </PropertyGroup>
 
   <ItemGroup>
